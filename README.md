@@ -24,15 +24,15 @@ Once logged in, I enabled Telnet and SSH.
 ## Telnet and SSH Access
 
 Although Telnet and SSH were enabled, I encountered difficulties logging in with several common usernames and passwords. Here’s what I tried
-* :Username: root
-* :Password: root (didn't work)
+* Username: root
+* Password: root (didn't work)
 * Other combinations tried:
 * root/zhone
 * user/user
 
 
 Eventually, I found a working set of credentials
-* :Username: admin
+* Username: admin
 * Password: zhone
 
  ```
@@ -251,8 +251,8 @@ However, the device runs a custom shell that includes SSH functionality, althoug
 
 Upon examining the main /etc/passwd file, I encountered several accounts, including one that was particularly confusing:
 
-* Username: reset2defaults
-* Password: F9n8Z/0zN9S1E
+* User: reset2defaults
+* hashed : F9n8Z/0zN9S1E
 
 The presence of these accounts is unusual and seems to serve different purposes.
 
