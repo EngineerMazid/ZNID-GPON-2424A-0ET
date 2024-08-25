@@ -15,8 +15,8 @@ Initially, I had trouble accessing the router's web interface. After some invest
 ## Access Information
 After performing a factory reset, I was able to access the router with the following details:
 * IP Address: 192.168.1.1
-* Username: zhone
-* Password: admin
+* Username: admin
+* Password: zhone
 
 Once logged in, I enabled Telnet and SSH.
 
